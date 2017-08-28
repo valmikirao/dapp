@@ -1,3 +1,5 @@
+# Note: This is just a workshop I did
+
 # Transmute dApp
 
 [![Build Status](https://travis-ci.org/transmute-industries/dapp.svg?branch=master)](https://travis-ci.org/transmute-industries/dapp)
